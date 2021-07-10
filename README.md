@@ -19,24 +19,26 @@ The Project Rubrics
 ---
 
 1. Required Files
-The project submission includes all required files:
- [Ipython notebook with code]("P1.ipynb")
+The project submission includes all required files:  
+ [Ipython notebook with code]("P1.ipynb")  
  [A writeup report]("Writeup_of_Lesson3.pdf")
  
-2. Lane Finding Pipeline
-The output video is an annotated version of the input video.
- [Picture of Hough lines]("test_images_output\without_average_extrapolate")
- [Picture of final detected lane lines]("test_images_output\with_average_extrapolate")
+2. Lane Finding Pipeline  
+The output video is an annotated version of the input video.  
+ [Picture of Hough lines]("test_images_output\without_average_extrapolate")  
+ [Picture of final detected lane lines]("test_images_output\with_average_extrapolate")  
 
-In a rough sense, the left and right lane lines are accurately annotated throughout almost all of the video. Annotations can be segmented or solid lines
- [Video of Hough lines]("test_videos_output\without_average_extrapolate")
+    In a rough sense, the left and right lane lines are accurately annotated throughout almost all of the video. Annotations can be segmented or solid lines  
+ [Video of Hough lines]("test_videos_output\without_average_extrapolate")  
 
-Visually, the left and right lane lines are accurately annotated by solid lines throughout most of the video.
+   Visually, the left and right lane lines are accurately annotated by solid lines throughout most of the video.  
  [Video of final detected lane lines]("test_videos_output\with_average_extrapolate")
 
 3. Reflection
  Reflection describes the current pipeline, identifies its potential shortcomings and suggests possible improvements. 
- There is no minimum length. Writing in English is preferred but you may use any language.
+ There is no minimum length. Writing in English is preferred but you may use any language.  
  [A writeup report]("Writeup_of_Lesson3.pdf")
+
+   *: Please refer the writeup report for details!
 
 
